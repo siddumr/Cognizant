@@ -15,9 +15,9 @@ Exercise 2: E-commerce Platform Search Function
 
 ![image](https://github.com/user-attachments/assets/24712c4f-7f0c-447d-8f77-d1135c0b10cd)
 
-Exercise 3: Sorting Customer Orders
+Exercise 3: Sorting Customer Orders(Additional)
 
-![image](https://github.com/user-attachments/assets/e37ab0d5-c602-416d-a5cb-459608ffa936)
+![image](https://github.com/user-attachments/assets/9b4b185b-3f6f-42a4-99c5-829d8fdcc05b)
 
 Exercise 7: Financial Forecasting
 
