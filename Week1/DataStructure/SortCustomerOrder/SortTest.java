@@ -2,11 +2,11 @@ public class SortTest {
 
     public static void main(String[] args) {
         Order[] orders = {
-            new Order(101, "Asha", 1500.50),
-            new Order(102, "Ravi", 3200.00),
-            new Order(103, "Neha", 990.99),
+            new Order(101, "siddu", 1500.50),
+            new Order(102, "mohan", 3200.00),
+            new Order(103, "selva", 990.99),
             new Order(104, "Kabir", 4500.75),
-            new Order(105, "Tina", 1800.20)
+            new Order(105, "sachin", 1800.20)
         };
 
         System.out.println("Original Orders:");
@@ -22,11 +22,11 @@ public class SortTest {
 
 
         orders = new Order[] {
-            new Order(101, "Asha", 1500.50),
-            new Order(102, "Ravi", 3200.00),
-            new Order(103, "Neha", 990.99),
+            new Order(101, "siddu", 1500.50),
+            new Order(102, "mohan", 3200.00),
+            new Order(103, "selva", 990.99),
             new Order(104, "Kabir", 4500.75),
-            new Order(105, "Tina", 1800.20)
+            new Order(105, "sachin", 1800.20)
         };
 
         System.out.println("\nSorted by Quick Sort:");
