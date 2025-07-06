@@ -15,6 +15,12 @@ Exercise 4: Creating and Configuring a Maven Project
 
 Spring Data JPA with Spring Boot, Hibernate:
 
+Spring Data JPA - Quick Example
+
+![Output2](https://github.com/user-attachments/assets/c5a15736-9cfc-4f9d-86e3-c84dcee3ad68)
+
+
+
 Difference between JPA, Hibernate and Spring Data JPA
 
 ![image](https://github.com/user-attachments/assets/8b00ece3-040a-4164-8b45-1126eff25a5e)
