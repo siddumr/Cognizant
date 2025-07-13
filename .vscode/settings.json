@@ -1,16 +1,12 @@
 {
     "java.project.sourcePaths": [
-        "Week3/JPA_Hibernate_SpringDataJPA_Unique/spring_data_jpa_example",
-        "Week3/JPA_Hibernate_SpringDataJPA_Unique/hibernate_example",
-        "Week3/JPA_Hibernate_SpringDataJPA/spring_data_jpa_example",
-        "Week3/JPA_Hibernate_SpringDataJPA/hibernate_example",
-        "Week2/ex",
+        "Week3/JPA_Hibernate_SpringDataJPA/src/main/java/com/example/employee",
         "Week2/Mocking_and_Stubbing",
         "Week2/Assertion_JUnit/src/test/java",
         "Week2/AAA_Pattern",
         "Week1/DataStructure/SortCustomerOrder",
         "Week1/DataStructure/FinancialForecasting",
         "Week1/DataStructure/EcommerceSearchFunction",
-        "Week3/JPA_Hibernate_SpringDataJPA/src/main/java/com/example/employee"
+        "Week4/Create a Spring Web Project using Maven/src/main/java/com/cognizant/springlearn"
     ]
 }
